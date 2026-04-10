@@ -16,7 +16,7 @@ then `tinybuild`
 
 ## Results
 
-e.g. randomly generated erosion network:
+e.g. randomly generated erosion network from our [WebGPU erosion simulator](https://github.com/joshbrew/webgpu_hydraulic_thermal_erosion_Jako2011/blob/main/README.md):
 
 <img width="400" height="400" alt="noise-main_export" src="https://github.com/user-attachments/assets/68cf364a-0af3-42f3-98ea-0bf5d205e6b4" />
 
