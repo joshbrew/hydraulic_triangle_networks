@@ -29,3 +29,7 @@ Without raster to see basin stitching:
 <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/78d4fb53-ba4a-422e-a0c2-f358be4d6724" />
 
 Mostly an experiment, this lets you make simpler meshes while adhering better to flow direction. It takes 0.5-1s for an 800x800 raster to process a mesh. I could not do better than that.
+
+### License
+
+MIT
