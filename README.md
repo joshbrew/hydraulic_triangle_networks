@@ -24,9 +24,9 @@ With triangle mesh overlay (10px to 25px neighbor dist):
 
 <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/bb987d23-8771-4eb9-9f68-318a7f42ce69" />
 
-Without raster to see stitching better:
+Without raster to see stitching easier:
 
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/436801ec-9c20-4cf2-a3b3-7076cdf8b4e3" />
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/f0592d45-8fd1-47d4-a6f1-86293825a67c" />
 
 
 Mostly an experiment, this lets you make simpler meshes while adhering better to flow direction. It takes 0.5-1s for an 800x800 raster to process a mesh. I could not do better than that.
