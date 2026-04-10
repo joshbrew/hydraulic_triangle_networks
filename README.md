@@ -34,3 +34,5 @@ Mostly an experiment, this lets you make simpler meshes while adhering better to
 ### License
 
 MIT
+
+Also heavily vibe coded.
