@@ -20,13 +20,14 @@ e.g. randomly generated erosion network from our [WebGPU erosion simulator](http
 
 <img width="400" height="400" alt="noise-main_export" src="https://github.com/user-attachments/assets/68cf364a-0af3-42f3-98ea-0bf5d205e6b4" />
 
-With triangle mesh overlay:
+With triangle mesh overlay (10px to 25px neighbor dist):
 
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/f78293e3-5189-4f45-8a95-52f56f085d84" />
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/bb987d23-8771-4eb9-9f68-318a7f42ce69" />
 
-Without raster to see basin stitching:
+Without raster to see stitching better:
 
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/78d4fb53-ba4a-422e-a0c2-f358be4d6724" />
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/436801ec-9c20-4cf2-a3b3-7076cdf8b4e3" />
+
 
 Mostly an experiment, this lets you make simpler meshes while adhering better to flow direction. It takes 0.5-1s for an 800x800 raster to process a mesh. I could not do better than that.
 
