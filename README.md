@@ -4,6 +4,8 @@ GIS-inspired hydraulically-grounded Delaunay triangulation method for triangle m
 Loosely based on ["Generation of Triangulated Irregular Networks Based on
 Hydrological Similarity" by Vivoni et al (2004)](http://vivoni.asu.edu/pdf/VivoniJHE2004.pdf)
 
+## Try it: [https://hydraulictrinetwork.netlify.app/](https://hydraulictrinetwork.netlify.app/)
+
 ## Build and run
 
 Open the folder containing this code in your terminal.
