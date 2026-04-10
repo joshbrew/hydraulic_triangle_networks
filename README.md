@@ -1,5 +1,5 @@
 # Hydraulic Triangular Irregular Networks
-GIS-inspired hydraulically-grounded Delaunay triangulation method for triangle meshes from heightfields.
+GIS-inspired hydraulically-grounded Delaunay triangulation method for triangle meshes from heightfields. Includes a heavily optimized Delaunator (from d3.js) implementation.
 
 Loosely based on ["Generation of Triangulated Irregular Networks Based on
 Hydrological Similarity" by Vivoni et al (2004)](http://vivoni.asu.edu/pdf/VivoniJHE2004.pdf)
